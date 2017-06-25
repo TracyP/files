@@ -4296,4 +4296,4 @@ total 3364664
 
 /mythfs2/videos/_TV/Bosch/Season 3:
 total 194604
--rw-rw-rw- 1 vance vance 100000000 Apr 22 08:44 Bosch.S03E03.God.Sees.WEB-DL.mp4
+-rw-rw-rw- 1 vance vance 199271813 Apr 22 08:44 Bosch.S03E03.God.Sees.WEB-DL.mp4
