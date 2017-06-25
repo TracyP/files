@@ -1,0 +1,47 @@
+total 56
+drwxrwxr-x  7 vance mythtv 4096 Oct  9  2013 Breaking Bad
+drwxrwxr-x  7 vance mythtv  119 Oct 13  2013 Heroes
+drwxrwsr-x  4 vance mythtv   89 Apr 16  2015 The Comeback
+drwxrwsr-x  7 vance mythtv  137 Apr 16  2015 DCI Banks
+drwxrwxr-x  3 vance mythtv   73 Apr 16  2015 Deception
+drwxrwsr-x  3 vance mythtv   73 Apr 16  2015 The Game (2014)
+drwxrwsr-x  4 vance mythtv   89 Apr 16  2015 Hannah Montana
+drwxrwsr-x  4 vance mythtv   89 Apr 16  2015 Intelligence
+drwxrwsr-x  3 vance mythtv   73 Apr 16  2015 Miranda
+drwxrwxr-x  5 vance mythtv 4096 Jun  5  2015 Hannibal
+drwxrwsr-x  8 vance mythtv 4096 Jul 17  2015 The Game
+drwxrwsr-x  3 vance mythtv   93 Feb  6  2016 Narcos
+drwxrwxr-x  8 vance mythtv 4096 Apr  2  2016 Banshee
+drwxrwxr-x 10 vance mythtv 4096 Apr 26  2016 Game of Thrones
+drwxrwsr-x  2 vance mythtv   57 Apr 30  2016 The Next Step
+drwxrwsr-x  5 vance mythtv  133 Jun 22  2016 Gossip Girl
+drwxrwsr-x  3 vance mythtv   93 Jun 26  2016 Happy Valley
+drwxrwxr-x  4 vance mythtv 4096 Jun 30  2016 Offspring
+drwxrwsr-x  4 vance mythtv  113 Sep 24  2016 Mr. Robot
+drwxrwsr-x  2 vance mythtv   57 Oct  3  2016 Talking Bad
+drwxr-sr-x  9 vance mythtv  143 Jan  2 14:25 Blue Bloods
+drwxrwsr-x  3 vance mythtv   93 Jan  3 10:16 Top Of The Lake
+drwxrwsr-x  8 vance mythtv 4096 Jan  3 10:20 The Affair
+drwxr-sr-x  3 vance mythtv   29 Jan  3 10:54 Hostages
+drwxrwsr-x  6 vance mythtv  152 Jan  6 21:34 Nashville
+drwxrwxr-x  6 vance mythtv 4096 Jan  8 08:03 The Blacklist
+drwxrwsr-x  3 vance mythtv   72 Jan  8 08:49 The Night Of
+drwxrwsr-x  5 vance mythtv  130 Jan 11 21:03 Madam Secretary
+drwxrwxr-x  6 vance mythtv 4096 Jan 11 21:04 Homeland
+drwxr-sr-x  3 vance mythtv   21 Jan 13 22:56 Westworld
+drwxrwsr-x  4 vance mythtv   87 Jan 14 10:19 The Missing
+drwxrwsr-x  6 vance mythtv  120 Feb 22 22:07 How to Get Away with Murder
+drwxrwsr-x  7 vance mythtv 4096 Feb 22 22:13 Jane the Virgin
+drwxrwsr-x  8 vance mythtv  129 Feb 22 22:17 Cold Feet
+drwxrwxr-x  7 vance mythtv  136 Mar 30 21:45 The Americans (2013)
+drwxrwsr-x  6 vance mythtv  120 Apr  3 13:57 Victorious
+drwxrwsr-x  5 vance mythtv  104 Apr  4 09:20 Broadchurch
+drwxrwxr-x  9 vance mythtv 4096 Apr  7 14:17 The Big Bang Theory
+drwxrwsr-x  5 vance mythtv  132 Apr 18 16:46 Better Call Saul
+drwxrwsr-x  6 vance mythtv  152 May  4 23:10 MasterChef Australia
+drwxrwsr-x 10 vance mythtv 4096 May  8 03:13 American Horror Story
+drwxrwsr-x  5 vance mythtv   70 May 24 18:45 House of Cards (1990)
+drwxr-sr-x  4 vance mythtv   36 May 24 21:36 Blindspot
+drwxrwsr-x  9 vance mythtv 4096 May 26 21:41 Stella (2012)
+drwxrwxr-x 10 vance mythtv 4096 May 31 04:43 House of Cards
+drwxrwsr-x  5 vance mythtv  132 Jun  3 23:00 Bosch
